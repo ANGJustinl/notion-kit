@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '昂的分流站',
-  domain: 'notion.angforever.top',
+  domain: 'www.angforever.top',
   author: 'ANGJustinl',
 
   // open graph metadata (optional)
