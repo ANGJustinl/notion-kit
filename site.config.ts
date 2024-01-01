@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: ＂cdn-angforever.test.upcdn.net/favicon.ico＂,
+  defaultPageIcon: null, //＂cdn-angforever.test.upcdn.net/favicon.ico＂,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
