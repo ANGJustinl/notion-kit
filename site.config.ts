@@ -55,11 +55,11 @@ export default siteConfig({
    navigationLinks: [
      {
        title: 'About 关于我',
-       pageId: '6dbcd7378eab4404a4da99c468fac7eb'
+       pageId: '0b959485eb2c42b49ec96024893eaff4'
      },
      {
        title: '昂昂bot',
-       pageId: 'a1ae45200e2a44d3ad87dd80d2109375'
+       pageId: '6717a9ceef034ca6b010547ada8f15f9'
      }
    ]
 })
